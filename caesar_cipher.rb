@@ -20,4 +20,6 @@ def caesar_cipher(string, shift)
   result
 end
 
+
+# sample usage
 puts caesar_cipher("What a string!", 5)
